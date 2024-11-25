@@ -1,4 +1,4 @@
-# DDSA
+# DepthDSA
 Python code to recover depth from projected synthetic 2D Digital Subtraction Angiography (DSA). 
 
 This plugin build a depth map from a single DSA image using semantic segmentation.
